@@ -17,12 +17,12 @@ Welcome to my GitHub profile! I'm a passionate software engineer and full-stack 
 <!-- GitHub Stats -->
 <h3 align="left">GitHub Stats 📊</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tarun-nayaka&show_icons=true&theme=radical" alt="Tarun's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Rtarun3606k&show_icons=true&theme=radical" alt="Tarun's GitHub stats" />
 </p>
 
 <!-- Top Languages -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tarun-nayaka&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rtarun3606k&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 <!-- Tech Stack -->
