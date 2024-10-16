@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Tarun Nayaka R</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=500&color=F76C6C&center=true&vCenter=true&width=435&lines=+software+Engineer+%7C+Full-Stack+Web+Dev;Cloud+Enthusiast+%7C+AI+Explorer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=500&color=F76C6C&center=true&vCenter=true&width=435&lines=+Ssoftware+Engineer+%7C+Full-Stack+Web+Dev;Cloud+Enthusiast+%7C+AI+Explorer" alt="Typing SVG" />
 </p>
 
 <!-- Intro -->
