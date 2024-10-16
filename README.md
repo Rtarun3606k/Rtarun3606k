@@ -2,11 +2,11 @@
 <h1 align="center">Hi 👋, I'm Tarun Nayaka R</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=500&color=F76C6C&center=true&vCenter=true&width=435&lines=SoSsoftware+Engineer+%7C+Full-Stack+Developer;Cloud+Enthusiast+%7C+AI+Explorer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=500&color=F76C6C&center=true&vCenter=true&width=435&lines=SoSsoftware+Engineer+%7C+Full-Stack+Web+Dev;Cloud+Enthusiast+%7C+AI+Explorer" alt="Typing SVG" />
 </p>
 
 <!-- Intro -->
-Welcome to my GitHub profile! I'm a passionate software engineer and full-stack web developer, skilled in building dynamic applications from front-end to back-end, with a keen interest in cloud computing, AI, and web development.
+Welcome to my GitHub profile! I'm a passionate software engineer and full-stack web dev, skilled in building dynamic applications from front-end to back-end, with a keen interest in cloud computing, AI, and web development.
 
 - 🌱 **Currently Learning:** DeepRacer AI, iOS blur effects in React, PyTorch, TensorFlow
 - 👨‍💻 **Building Projects With:** Flask, React, Docker, PostgreSQL, Express, Node.js
