@@ -56,6 +56,10 @@ Welcome to my GitHub profile! I'm a passionate software engineer and full-stack 
   <img src="https://img.shields.io/badge/Matlab-0076A8?logo=mathworks&logoColor=white" />
 </p>
 
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=Rtarun3606k&label=Profile%20Views&color=6&pretty=false" />
+</a>
+
 <!-- Contact Info -->
 <h3 align="left">Connect with Me 📫</h3>
 <p align="left">
