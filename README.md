@@ -59,7 +59,7 @@ Welcome to my GitHub profile! I'm a passionate software engineer and full-stack 
 <a href="https://visitcount.itsvg.in">
   <img src="https://visitcount.itsvg.in/api?id=Rtarun3606k&label=Profile%20Views&color=6&pretty=false" />
 </a>
-![Visitor Count](https://profile-counter.glitch.me/Rtarun3606k/count.svg)
+Visitor Count <img src  ="https://profile-counter.glitch.me/Rtarun3606k/count.svg"/>
 
 <!-- Contact Info -->
 <h3 align="left">Connect with Me 📫</h3>
