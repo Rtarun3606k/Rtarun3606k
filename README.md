@@ -1,7 +1,14 @@
 <!-- Heading with centered text -->
 <h1 align="center">Hi 👋, I'm Tarun Nayaka R</h1>
 
-<p align="center">
+
+<style>
+.width{
+width:"100%"
+}
+</style>
+
+<p align="center" class="width">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=500&color=F76C6C&center=true&vCenter=true&width=435&lines=+Ssoftware+Engineer+%7C+Full-Stack+Web+Dev;Cloud+Enthusiast+%7C+AI+Explorer" alt="Typing SVG" />
 </p>
 
