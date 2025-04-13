@@ -23,7 +23,7 @@ Welcome to my GitHub profile! I'm a passionate software engineer and full-stack 
 
 <!-- Top Languages -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rtarun3606k&theme=dark&show_icons=true&hide=html,css" alt="Top Languages" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Rtarun3606k&layout=compact&theme=radical&langs_count=10&hide=html,css" alt="Top Languages" />
 </p>
 
 <!-- Tech Stack -->
