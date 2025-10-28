@@ -70,5 +70,5 @@ Visitor Count <img src="https://profile-counter.glitch.me/Rtarun3606k/count.svg"
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
 </p>
-[![An image of @rtarun3606k's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/rtarun3606k)](https://holopin.io/@rtarun3606k)
-<img src="https://holopin.me/rtarun3606k"/>
+[![An image of @rtarun3606k's Holopin badges, which is a link to view their full Holopin profile] (https://holopin.io/@rtarun3606k)]
+<!-- <img src="https://holopin.me/rtarun3606k"/> -->
