@@ -64,7 +64,7 @@ I am a Software Engineer and Full-Stack Developer with a passion for building en
 </p>
 
 <p align="center">
-  <img src="https://github.com/Rtarun3606k/Rtarun3606k/blob/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+  <img src="https://github.com/Rtarun3606k/Rtarun3606k/raw/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
 </p>
 
 <!-- <p align="center">
