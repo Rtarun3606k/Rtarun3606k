@@ -3,7 +3,7 @@ name: Update Recent Activity
 on:
   schedule:
     - cron: '*/30 * * * *' # Runs every 30 minutes
-  workflow_dispatch: # Allows manual run
+  workflow_dispatch: # Allows you to click the button manually
 
 jobs:
   build:
@@ -13,6 +13,8 @@ jobs:
     steps:
       - uses: actions/checkout@v4
       
+      # The error happens here if '@v1' is missing. 
+      # I have added it explicitly below:
       - uses: jamesives/github-activity-readme@v1
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
