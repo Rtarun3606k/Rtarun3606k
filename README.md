@@ -66,6 +66,7 @@ I am a Software Engineer and Full-Stack Developer with a passion for building en
 <!-- <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rtarun3606k&bg_color=1a1b27&color=70a5fd&line=38bdae&point=FFFFFF&area=true&hide_border=true" alt="Tarun's Activity Graph" />
 </p> -->
+<h3 align="left">⏳ Weekly Coding Time</h3>
 
 <h3 align="left">⚡ Recent Activity</h3>
 
