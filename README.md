@@ -74,9 +74,10 @@ I am a Software Engineer and Full-Stack Developer with a passion for building en
 
 <h3 align="left">⚡ Recent Activity</h3>
 <!--START_SECTION:activity-->
-1. 🚀 Published release [mdparser-html v2.0.1](https://github.com/Rtarun3606k/mdparser/releases/tag/v2.0.1) in [Rtarun3606k/mdparser](https://github.com/Rtarun3606k/mdparser)
-2. ❌ Merged PR [#1](undefined) in [Rtarun3606k/LocalStorage](https://github.com/Rtarun3606k/LocalStorage)
-3. 💪 Opened PR [#1](undefined) in [Rtarun3606k/LocalStorage](https://github.com/Rtarun3606k/LocalStorage)
+
+1.  🚀 Published release [mdparser-html v2.0.1](https://github.com/Rtarun3606k/mdparser/releases/tag/v2.0.1) in [Rtarun3606k/mdparser](https://github.com/Rtarun3606k/mdparser)
+2.  ❌ Merged PR [#1](undefined) in [Rtarun3606k/LocalStorage](https://github.com/Rtarun3606k/LocalStorage)
+3.  💪 Opened PR [#1](undefined) in [Rtarun3606k/LocalStorage](https://github.com/Rtarun3606k/LocalStorage)
 <!--END_SECTION:activity-->
 
 ---
