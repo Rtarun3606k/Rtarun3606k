@@ -63,6 +63,10 @@ I am a Software Engineer and Full-Stack Developer with a passion for building en
   <img src="https://git-status-for-gist.vercel.app/api/top-langs/?username=Rtarun3606k&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&hide=html,css" alt="Top Languages" height="200" />
 </p>
 
+<p align="center">
+  <img src="https://github.com/Rtarun3606k/Rtarun3606k/blob/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+</p>
+
 <!-- <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rtarun3606k&bg_color=1a1b27&color=70a5fd&line=38bdae&point=FFFFFF&area=true&hide_border=true" alt="Tarun's Activity Graph" />
 </p> -->
