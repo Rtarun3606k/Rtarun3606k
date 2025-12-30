@@ -5,19 +5,19 @@
 </p>
 
 <p align="center">
-  <i>Building scalable web applications and exploring the frontiers of AI.</i>
+  <i>Architecting high-performance systems and intelligent AI pipelines.</i>
 </p>
 
 ---
 
 ### 👨‍💻 About Me
 
-I am a Software Engineer and Full-Stack Developer with a passion for building end-to-end solutions. My expertise bridges the gap between dynamic front-end interfaces and robust back-end architectures. I am actively researching Deep Learning and Cloud Infrastructure to solve real-world problems.
+I am a Software Engineer focused on **Systems Programming** and **AI Infrastructure**. Unlike typical web developers, I dive deep into low-level logic using **C++ & Rust** while building scalable cloud architectures with **Go & Kafka**. My current research lies at the intersection of **Computer Vision** and distributed systems.
 
-- 🔭 **Current Focus:** exploring **DeepRacer AI**, **PyTorch**, and advanced **React** patterns.
-- 🏗️ **Building:** Scalable apps using **Flask**, **Docker**, and **PostgreSQL**.
-- 🧠 **Interests:** Cloud Architecture (Azure/GCP), Machine Learning, and DevOps.
-- ⚡ **Fun Fact:** I spend my free time testing new frameworks and optimizing cloud deployment costs!
+- 🔭 **Current Focus:** Real-time **Computer Vision** (OpenCV), **Systems Engineering** (Rust/Go), and **Vision Transformers**.
+- 🏗️ **Building:** High-throughput data pipelines using **Apache Kafka**, **Vector DBs**, and **Dockerized Microservices**.
+- 🧠 **Interests:** Distributed Systems, Linux Kernel (Debian/Arch), and Cloud-Native AI (Azure/GCP).
+- ⚡ **Fun Fact:** I live in the terminal (Neovim + Lua) and I use Debian (btw).
 
 ---
 
@@ -82,23 +82,33 @@ I am a Software Engineer and Full-Stack Developer with a passion for building en
 
 ---
 
-### 📫 Connect with Me
+
+<br />
+
+<h3 align="center">🤝 Connect with Me</h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/tarun-nayaka-r-28612a27a" target="blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
+  &nbsp;&nbsp;&nbsp;
   <a href="mailto:r.tarunnayaka25042005@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://profile-counter.glitch.me/Rtarun3606k/count.svg" alt="Visitor Counter"/>
+  <img src="https://komarev.com/ghpvc/?username=Rtarun3606k&label=Profile%20Views&color=0e75b6&style=flat&base=3456" alt="Visitor Count" />
 </p>
+<br />
 
+<h3 align="center">🏆 Achievements & Badges</h3>
 <p align="center">
   <a href="https://holopin.io/@rtarun3606k">
-    <img src="https://holopin.me/rtarun3606k" alt="Holopin Badges" />
+    <img src="https://holopin.me/rtarun3606k" alt="Tarun's Holopin Badges" width="100%" />
   </a>
+</p>
+
+<p align="center">
+  <i>"Code is like humor. When you have to explain it, it’s bad." – Cory House</i>
 </p>
