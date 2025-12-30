@@ -81,25 +81,26 @@ I am a Software Engineer focused on **Systems Programming** and **AI Infrastruct
 <!--END_SECTION:activity-->
 
 ---
-
-
 <br />
 
 <h3 align="center">🤝 Connect with Me</h3>
 
 <p align="center">
+  <a href="https://tarunnayaka.me" target="blank">
+    <img src="https://img.shields.io/badge/Website-3b5998?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" />
+  </a>
+  &nbsp;
   <a href="https://linkedin.com/in/tarun-nayaka-r-28612a27a" target="blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  &nbsp;&nbsp;&nbsp;
+  &nbsp;
   <a href="mailto:r.tarunnayaka25042005@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
+  &nbsp;
+  <img src="https://komarev.com/ghpvc/?username=Rtarun3606k&label=Views&color=0e75b6&style=for-the-badge&base=3456" alt="Visitor Count" />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Rtarun3606k&label=Profile%20Views&color=0e75b6&style=flat&base=3456" alt="Visitor Count" />
-</p>
 <br />
 
 <h3 align="center">🏆 Achievements & Badges</h3>
