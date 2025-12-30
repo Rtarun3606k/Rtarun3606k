@@ -15,3 +15,9 @@ jobs:
       - uses: jamesgeorge007/github-activity-readme@master
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+# LIMITS: Keep it to 5 items so it doesn't look messy
+          MAX_LINES: 5 
+          # FORMATTING: This adds a dash to make it a bullet list
+          COMMIT_NAME_PREFIX: "- "
+          # FILTERS: This prevents some duplicate/spammy events
+          IGNORED_EVENTS: 'WatchEvent,MemberEvent'
