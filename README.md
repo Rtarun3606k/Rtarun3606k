@@ -73,6 +73,7 @@ I am a Software Engineer and Full-Stack Developer with a passion for building en
 <!-- <h3 align="left">⏳ Weekly Coding Time</h3> -->
 
 <h3 align="left">⚡ Recent Activity</h3>
+<!--START_SECTION:activity-->
 
 ---
 
