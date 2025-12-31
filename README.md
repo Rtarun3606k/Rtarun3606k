@@ -76,6 +76,11 @@ I am a Software Engineer focused on **Systems Programming** and **AI Infrastruct
 
 <h3 align="left">⏳ Weekly Coding Time</h3>
  <!--START_SECTION:waka-->
+
+```txt
+No activity tracked
+```
+
 <!--END_SECTION:waka-->
 
 
