@@ -76,9 +76,9 @@ I am a Software Engineer focused on **Systems Programming** and **AI Infrastruct
 
 <!--START_SECTION:activity-->
 
-1. 🚀 Published release [mdparser-html v2.0.1](https://github.com/Rtarun3606k/mdparser/releases/tag/v2.0.1) in [Rtarun3606k/mdparser](https://github.com/Rtarun3606k/mdparser)
-2. ❌ Merged PR [#1](undefined) in [Rtarun3606k/LocalStorage](https://github.com/Rtarun3606k/LocalStorage)
-3. 💪 Opened PR [#1](undefined) in [Rtarun3606k/LocalStorage](https://github.com/Rtarun3606k/LocalStorage)
+1. ❌ Merged PR [#2](undefined) in [Rtarun3606k/LocalStorage](https://github.com/Rtarun3606k/LocalStorage)
+2. 💪 Opened PR [#2](undefined) in [Rtarun3606k/LocalStorage](https://github.com/Rtarun3606k/LocalStorage)
+3. 🚀 Published release [mdparser-html v2.0.1](https://github.com/Rtarun3606k/mdparser/releases/tag/v2.0.1) in [Rtarun3606k/mdparser](https://github.com/Rtarun3606k/mdparser)
 <!--END_SECTION:activity-->
 
 ---
