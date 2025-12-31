@@ -115,9 +115,12 @@ I am a Software Engineer focused on **Systems Programming** and **AI Infrastruct
  <!--START_SECTION:waka-->
 
 ```txt
-From: 23 December 2025 - To: 30 December 2025
+From: 24 December 2025 - To: 31 December 2025
 
-No activity tracked
+Go     1 hr 58 mins    ███████████████████░░░░░░   75.68 %
+Lua    29 mins         ████▓░░░░░░░░░░░░░░░░░░░░   19.08 %
+HTML   7 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.65 %
+Text   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 %
 ```
 
 <!--END_SECTION:waka-->
