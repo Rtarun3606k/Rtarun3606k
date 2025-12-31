@@ -74,16 +74,6 @@ I am a Software Engineer focused on **Systems Programming** and **AI Infrastruct
 
 <h3 align="left">⚡ Recent Activity</h3>
 
-<h3 align="left">⏳ Weekly Coding Time</h3>
- <!--START_SECTION:waka-->
-
-```txt
-No activity tracked
-```
-
-<!--END_SECTION:waka-->
-
-
 <!--START_SECTION:activity-->
 
 1. 🚀 Published release [mdparser-html v2.0.1](https://github.com/Rtarun3606k/mdparser/releases/tag/v2.0.1) in [Rtarun3606k/mdparser](https://github.com/Rtarun3606k/mdparser)
@@ -120,6 +110,15 @@ No activity tracked
     <img src="https://holopin.me/rtarun3606k" alt="Tarun's Holopin Badges" width="100%" />
   </a>
 </p>
+
+<h3 align="left">⏳ Weekly Coding Time</h3>
+ <!--START_SECTION:waka-->
+
+```txt
+No activity tracked
+```
+
+<!--END_SECTION:waka-->
 
 <p align="center">
   <i>"Code is like humor. When you have to explain it, it’s bad." – Cory House</i>
