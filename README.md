@@ -76,9 +76,9 @@ I am a Software Engineer focused on **Systems Programming** and **AI Infrastruct
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#103](https://github.com/Rtarun3606k/Walkez/issues/103#issuecomment-3703476775) in [Rtarun3606k/Walkez](https://github.com/Rtarun3606k/Walkez)
-2. 🎉 Merged PR [#2](https://github.com/Rtarun3606k/LocalStorage/pull/2) in [Rtarun3606k/LocalStorage](https://github.com/Rtarun3606k/LocalStorage)
-3. 💪 Opened PR [#2](https://github.com/Rtarun3606k/LocalStorage/pull/2) in [Rtarun3606k/LocalStorage](https://github.com/Rtarun3606k/LocalStorage)
+1. 🗣 Commented on [#3](https://github.com/Rtarun3606k/LocalStorage/pull/3#issuecomment-3703811487) in [Rtarun3606k/LocalStorage](https://github.com/Rtarun3606k/LocalStorage)
+2. 🗣 Commented on [#103](https://github.com/Rtarun3606k/Walkez/issues/103#issuecomment-3703476775) in [Rtarun3606k/Walkez](https://github.com/Rtarun3606k/Walkez)
+3. 🎉 Merged PR [#2](https://github.com/Rtarun3606k/LocalStorage/pull/2) in [Rtarun3606k/LocalStorage](https://github.com/Rtarun3606k/LocalStorage)
 <!--END_SECTION:activity-->
 
 ---
