@@ -115,13 +115,13 @@ I am a Software Engineer focused on **Systems Programming** and **AI Infrastruct
  <!--START_SECTION:waka-->
 
 ```txt
-From: 25 December 2025 - To: 01 January 2026
+From: 26 December 2025 - To: 02 January 2026
 
-Go     3 hrs 33 mins   ████████████████████▓░░░░   82.52 %
-Lua    29 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.51 %
-Bash   7 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.82 %
-HTML   7 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.80 %
-Text   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 %
+Go           4 hrs 12 mins   ████████████▒░░░░░░░░░░░░   49.29 %
+JavaScript   2 hrs 25 mins   ███████░░░░░░░░░░░░░░░░░░   28.49 %
+Lua          1 hr 27 mins    ████▒░░░░░░░░░░░░░░░░░░░░   17.10 %
+Bash         8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.60 %
+HTML         7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.42 %
 ```
 
 <!--END_SECTION:waka-->
