@@ -76,9 +76,9 @@ I am a Software Engineer focused on **Systems Programming** and **AI Infrastruct
 
 <!--START_SECTION:activity-->
 
-1. 🚀 Published release [v1.0.0 Initial Launch](https://github.com/Rtarun3606k/TakaTime/releases/tag/v1.0.5) in [Rtarun3606k/TakaTime](https://github.com/Rtarun3606k/TakaTime)
-2. 🎉 Merged PR [#5](https://github.com/Rtarun3606k/LocalStorage/pull/5) in [Rtarun3606k/LocalStorage](https://github.com/Rtarun3606k/LocalStorage)
-3. 💪 Opened PR [#5](https://github.com/Rtarun3606k/LocalStorage/pull/5) in [Rtarun3606k/LocalStorage](https://github.com/Rtarun3606k/LocalStorage)
+1. 🚀 Published release [Version 2.0.2 Beta](https://github.com/Rtarun3606k/TakaTime/releases/tag/v2.0.2-beta) in [Rtarun3606k/TakaTime](https://github.com/Rtarun3606k/TakaTime)
+2. 🚀 Published release [v1.0.0 Initial Launch](https://github.com/Rtarun3606k/TakaTime/releases/tag/v1.0.5) in [Rtarun3606k/TakaTime](https://github.com/Rtarun3606k/TakaTime)
+3. 🎉 Merged PR [#5](https://github.com/Rtarun3606k/LocalStorage/pull/5) in [Rtarun3606k/LocalStorage](https://github.com/Rtarun3606k/LocalStorage)
 <!--END_SECTION:activity-->
 
 ---
