@@ -115,7 +115,7 @@ I am a Software Engineer focused on **Systems Programming** and **AI Infrastruct
  <!--START_SECTION:waka-->
 
 ```txt
-From: 27 December 2025 - To: 03 January 2026
+From: 28 December 2025 - To: 04 January 2026
 
 Go           6 hrs 24 mins   █████████████░░░░░░░░░░░░   51.46 %
 JavaScript   2 hrs 25 mins   █████░░░░░░░░░░░░░░░░░░░░   19.49 %
