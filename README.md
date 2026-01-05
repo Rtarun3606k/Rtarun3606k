@@ -126,6 +126,9 @@ YAML         12 mins         ▒░░░░░░░░░░░░░░░░
 
 <!--END_SECTION:waka-->
 
+<!--takatime-start-->
+<!--takatime-end-->
+
 <p align="center">
   <i>"Code is like humor. When you have to explain it, it’s bad." – Cory House</i>
 </p>
