@@ -126,7 +126,7 @@ I am a Software Engineer focused on **Systems Programming** and **AI Infrastruct
 #### 📈 Trends
 | Period        | Duration    | Period       | Duration    |
 | :---          | :---        | :---         | :---        |
-| Yesterday     | **3h 17m**  | Last 7 Days  | **3h 17m**  |
+| Yesterday     | **3h 13m**  | Last 7 Days  | **3h 17m**  |
 | Last 30 Days  | **3h 17m**  | All Time     | **3h 17m**  |
 
 #### 💻 Languages
