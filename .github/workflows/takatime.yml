@@ -23,6 +23,6 @@ jobs:
       - name: Generate Report & Update Profile
         env:
           MONGO_URI: ${{ secrets.MONGO_URI }}
-          GIST_TOKEN: ${{ secrets.GIST_TOKEN }}
-          TARGET_REPO: "Rtarun3606k/Rtarun3606k" # <--- Change this!
+          GIST_TOKEN: ${{ github.token }}
+          TARGET_REPO: ${{ github.repository }}
         run: ./taka-report -days=7
