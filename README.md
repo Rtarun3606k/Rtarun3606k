@@ -118,34 +118,28 @@ I am a Software Engineer focused on **Systems Programming** and **AI Infrastruct
 
 > [!NOTE]
 > **TakaTime Dashboard**
-> _Jan 05_ to _Jan 12_
+> _Jan 06_ to _Jan 13_
 
 > [!TIP]
-> **Total Coding Time (7d):** 4h 14m
+> **Total Coding Time (7d):** 0h 35m
 
 #### 📈 Trends
 | Period        | Duration    | Period       | Duration    |
 | :---          | :---        | :---         | :---        |
-| Yesterday     | **0m**      | Last 7 Days  | **4h 14m**  |
+| Yesterday     | **0m**      | Last 7 Days  | **35m**     |
 | Last 30 Days  | **4h 18m**  | All Time     | **4h 18m**  |
 
 #### 💻 Languages
 | Language | Time | Percentage |
 | :--- | :--- | :--- |
-| **go** | 1h 39m | 🟦🟦🟦⬜⬜⬜⬜⬜⬜⬜ 39.2% |
-| **lua** | 1h 2m | 🟦🟦⬜⬜⬜⬜⬜⬜⬜⬜ 24.7% |
-| **txt** | 41m | 🟦⬜⬜⬜⬜⬜⬜⬜⬜⬜ 16.2% |
-| **text** | 27m | 🟦⬜⬜⬜⬜⬜⬜⬜⬜⬜ 10.6% |
-| **Other** | 23m | ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ 9.2% |
+| **js** | 23m | 🟦🟦🟦🟦🟦🟦⬜⬜⬜⬜ 66.1% |
+| **lua** | 12m | 🟦🟦🟦⬜⬜⬜⬜⬜⬜⬜ 33.9% |
 
 #### 🔥 Projects
 | Project | Time | Percentage |
 | :--- | :--- | :--- |
-| **taka-time.nvim** | 2h 32m | 🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜ 60.0% |
-| **testTakaTime** | 41m | 🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜ 16.2% |
-| **nvim** | 24m | ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ 9.8% |
-| **vscodePlugin** | 23m | ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ 9.2% |
-| **Other** | 12m | ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ 4.8% |
+| **vscodePlugin** | 23m | 🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜ 66.1% |
+| **plugins** | 12m | 🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜ 33.9% |
 
 
 <!--takatime-end-->
