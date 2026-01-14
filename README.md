@@ -118,7 +118,7 @@ I am a Software Engineer focused on **Systems Programming** and **AI Infrastruct
 
 > [!NOTE]
 > **TakaTime Dashboard**
-> _Jan 06_ to _Jan 13_
+> _Jan 07_ to _Jan 14_
 
 > [!TIP]
 > **Total Coding Time (7d):** 0h 35m
