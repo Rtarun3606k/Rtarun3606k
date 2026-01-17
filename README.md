@@ -118,28 +118,31 @@ I am a Software Engineer focused on **Systems Programming** and **AI Infrastruct
 
 > [!NOTE]
 > **TakaTime Dashboard**
-> _Jan 07_ to _Jan 14_
+> _Jan 10_ to _Jan 17_
 
 > [!TIP]
-> **Total Coding Time (7d):** 0h 35m
+> **Total Coding Time (7d):** 0h 16m
 
 #### 📈 Trends
 | Period        | Duration    | Period       | Duration    |
 | :---          | :---        | :---         | :---        |
-| Yesterday     | **0m**      | Last 7 Days  | **35m**     |
-| Last 30 Days  | **4h 18m**  | All Time     | **4h 18m**  |
+| Yesterday     | **16m**     | Last 7 Days  | **16m**     |
+| Last 30 Days  | **4h 34m**  | All Time     | **4h 34m**  |
 
 #### 💻 Languages
 | Language | Time | Percentage |
 | :--- | :--- | :--- |
-| **js** | 23m | 🟦🟦🟦🟦🟦🟦⬜⬜⬜⬜ 66.1% |
-| **lua** | 12m | 🟦🟦🟦⬜⬜⬜⬜⬜⬜⬜ 33.9% |
+| **json** | 6m | 🟦🟦🟦⬜⬜⬜⬜⬜⬜⬜ 37.5% |
+| **markdown** | 4m | 🟦🟦⬜⬜⬜⬜⬜⬜⬜⬜ 25.0% |
+| **ignore** | 2m | 🟦⬜⬜⬜⬜⬜⬜⬜⬜⬜ 12.5% |
+| **javascript** | 2m | 🟦⬜⬜⬜⬜⬜⬜⬜⬜⬜ 12.5% |
+| **Other** | 2m | 🟦⬜⬜⬜⬜⬜⬜⬜⬜⬜ 12.5% |
 
 #### 🔥 Projects
 | Project | Time | Percentage |
 | :--- | :--- | :--- |
-| **vscodePlugin** | 23m | 🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜ 66.1% |
-| **plugins** | 12m | 🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜ 33.9% |
+| **Takatime** | 14m | 🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜ 87.5% |
+| **testTakaTime** | 2m | 🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜ 12.5% |
 
 
 <!--takatime-end-->
