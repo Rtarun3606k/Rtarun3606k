@@ -76,9 +76,9 @@ I am a Software Engineer focused on **Systems Programming** and **AI Infrastruct
 
 <!--START_SECTION:activity-->
 
-1. 🚀 Published release [Version 2.0.4 windows .exe added](https://github.com/Rtarun3606k/TakaTime/releases/tag/v2.0.4) in [Rtarun3606k/TakaTime](https://github.com/Rtarun3606k/TakaTime)
-2. 🚀 Published release [Version 2.0.3 stable](https://github.com/Rtarun3606k/TakaTime/releases/tag/v2.0.3) in [Rtarun3606k/TakaTime](https://github.com/Rtarun3606k/TakaTime)
-3. 🚀 Published release [Version 2.0.3 Beta](https://github.com/Rtarun3606k/TakaTime/releases/tag/v2.0.3-beta) in [Rtarun3606k/TakaTime](https://github.com/Rtarun3606k/TakaTime)
+1. 🗣 Commented on [#2](https://github.com/Rtarun3606k/TakaTime/issues/2#issuecomment-3762858112) in [Rtarun3606k/TakaTime](https://github.com/Rtarun3606k/TakaTime)
+2. 🚀 Published release [Version 2.0.4 windows .exe added](https://github.com/Rtarun3606k/TakaTime/releases/tag/v2.0.4) in [Rtarun3606k/TakaTime](https://github.com/Rtarun3606k/TakaTime)
+3. 🚀 Published release [Version 2.0.3 stable](https://github.com/Rtarun3606k/TakaTime/releases/tag/v2.0.3) in [Rtarun3606k/TakaTime](https://github.com/Rtarun3606k/TakaTime)
 <!--END_SECTION:activity-->
 
 ---
