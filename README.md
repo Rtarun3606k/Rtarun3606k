@@ -118,31 +118,33 @@ I am a Software Engineer focused on **Systems Programming** and **AI Infrastruct
 
 > [!NOTE]
 > **TakaTime Dashboard**
-> _Jan 11_ to _Jan 18_
+> _Jan 12_ to _Jan 19_
 
 > [!TIP]
-> **Total Coding Time (7d):** 0h 18m
+> **Total Coding Time (7d):** 2h 29m
 
 #### 📈 Trends
 | Period        | Duration    | Period       | Duration    |
 | :---          | :---        | :---         | :---        |
-| Yesterday     | **18m**     | Last 7 Days  | **18m**     |
-| Last 30 Days  | **4h 36m**  | All Time     | **4h 36m**  |
+| Yesterday     | **2h 11m**  | Last 7 Days  | **2h 29m**  |
+| Last 30 Days  | **6h 48m**  | All Time     | **6h 48m**  |
 
 #### 💻 Languages
 | Language | Time | Percentage |
 | :--- | :--- | :--- |
-| **json** | 6m | 🟦🟦🟦⬜⬜⬜⬜⬜⬜⬜ 33.3% |
-| **go** | 4m | 🟦🟦⬜⬜⬜⬜⬜⬜⬜⬜ 22.2% |
-| **markdown** | 4m | 🟦🟦⬜⬜⬜⬜⬜⬜⬜⬜ 22.2% |
-| **javascript** | 2m | 🟦⬜⬜⬜⬜⬜⬜⬜⬜⬜ 11.1% |
-| **Other** | 2m | 🟦⬜⬜⬜⬜⬜⬜⬜⬜⬜ 11.1% |
+| **go** | 1h 9m | 🟦🟦🟦🟦⬜⬜⬜⬜⬜⬜ 46.3% |
+| **lua** | 1h 6m | 🟦🟦🟦🟦⬜⬜⬜⬜⬜⬜ 44.3% |
+| **json** | 6m | ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ 4.0% |
+| **markdown** | 4m | ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ 2.7% |
+| **Other** | 4m | ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ 2.7% |
 
 #### 🔥 Projects
 | Project | Time | Percentage |
 | :--- | :--- | :--- |
-| **Takatime** | 14m | 🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜ 77.8% |
-| **testTakaTime** | 4m | 🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜ 22.2% |
+| **testTakaTime** | 1h 9m | 🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜ 46.3% |
+| **plugins** | 1h 5m | 🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜ 43.6% |
+| **Takatime** | 14m | ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ 9.4% |
+| **taka-time.nvim** | 1m | ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ 0.7% |
 
 
 <!--takatime-end-->
