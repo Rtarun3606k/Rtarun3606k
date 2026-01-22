@@ -148,6 +148,9 @@ I am a Software Engineer focused on **Systems Programming** and **AI Infrastruct
 
 
 <!--takatime-end-->
+<div align="center">
+<img src="https://render.gitanimals.org/farms/Rtarun3606k?loading" alt="git animals" />
+</div>
 
 <p align="center">
   <i>"Code is like humor. When you have to explain it, it’s bad." – Cory House</i>
