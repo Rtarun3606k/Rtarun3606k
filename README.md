@@ -76,9 +76,9 @@ I am a Software Engineer focused on **Systems Programming** and **AI Infrastruct
 
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#2118](https://github.com/rockerBOO/awesome-neovim/pull/2118) in [rockerBOO/awesome-neovim](https://github.com/rockerBOO/awesome-neovim)
-2. 🗣 Commented on [#3](https://github.com/Rtarun3606k/TakaTime/issues/3#issuecomment-3775896938) in [Rtarun3606k/TakaTime](https://github.com/Rtarun3606k/TakaTime)
-3. 🗣 Commented on [#3](https://github.com/Rtarun3606k/TakaTime/issues/3#issuecomment-3773453023) in [Rtarun3606k/TakaTime](https://github.com/Rtarun3606k/TakaTime)
+1. 🎉 Merged PR [#2118](https://github.com/rockerBOO/awesome-neovim/pull/2118) in [rockerBOO/awesome-neovim](https://github.com/rockerBOO/awesome-neovim)
+2. 💪 Opened PR [#2118](https://github.com/rockerBOO/awesome-neovim/pull/2118) in [rockerBOO/awesome-neovim](https://github.com/rockerBOO/awesome-neovim)
+3. 🗣 Commented on [#3](https://github.com/Rtarun3606k/TakaTime/issues/3#issuecomment-3775896938) in [Rtarun3606k/TakaTime](https://github.com/Rtarun3606k/TakaTime)
 <!--END_SECTION:activity-->
 
 ---
