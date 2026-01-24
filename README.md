@@ -61,6 +61,12 @@ I am a Software Engineer focused on **Systems Programming** and **AI Infrastruct
 <p align="center">
   <img src="https://git-status-for-gist.vercel.app/api?username=Rtarun3606k&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" alt="Tarun's Stats" height="200" />
   <img src="https://git-status-for-gist.vercel.app/api/top-langs/?username=Rtarun3606k&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&hide=html,css" alt="Top Languages" height="200" />
+  <!-- <a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=97576326" target="_blank" style="display: block" align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=97576326&image_size=auto&color_scheme=dark" width="771" height="auto">
+    <img alt="Dashboard stats of @Rtarun3606k" src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=97576326&image_size=auto&color_scheme=light" width="771" height="auto">
+  </picture>
+</a> -->
 </p>
 
 <p align="center">
