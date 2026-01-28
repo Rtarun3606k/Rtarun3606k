@@ -124,7 +124,7 @@ I am a Software Engineer focused on **Systems Programming** and **AI Infrastruct
 
 > [!NOTE]
 > **TakaTime Dashboard**
-> _Jan 20_ to _Jan 27_
+> _Jan 21_ to _Jan 28_
 
 > [!TIP]
 > **Total Coding Time (7d):** 14h 37m
@@ -132,7 +132,7 @@ I am a Software Engineer focused on **Systems Programming** and **AI Infrastruct
 #### 📈 Trends
 | Period        | Duration     | Period       | Duration     |
 | :---          | :---         | :---         | :---         |
-| Yesterday     | **10h 18m**  | Last 7 Days  | **14h 37m**  |
+| Yesterday     | **0m**       | Last 7 Days  | **14h 37m**  |
 | Last 30 Days  | **21h 25m**  | All Time     | **21h 25m**  |
 
 #### 💻 Languages
