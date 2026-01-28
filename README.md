@@ -127,19 +127,19 @@ I am a Software Engineer focused on **Systems Programming** and **AI Infrastruct
 > _Jan 21_ to _Jan 28_
 
 > [!TIP]
-> **Total Coding Time (7d):** 15h 47m
+> **Total Coding Time (7d):** 15h 50m
 
 #### 📈 Trends
 | Period        | Duration     | Period       | Duration     |
 | :---          | :---         | :---         | :---         |
-| Yesterday     | **1h 10m**   | Last 7 Days  | **15h 47m**  |
-| Last 30 Days  | **22h 35m**  | All Time     | **22h 35m**  |
+| Yesterday     | **1h 13m**   | Last 7 Days  | **15h 50m**  |
+| Last 30 Days  | **22h 38m**  | All Time     | **22h 38m**  |
 
 #### 💻 Languages
 | Language | Time | Percentage |
 | :--- | :--- | :--- |
-| **go** | 9h 9m | 🟦🟦🟦🟦🟦⬜⬜⬜⬜⬜ 58.0% |
-| **lua** | 4h 32m | 🟦🟦⬜⬜⬜⬜⬜⬜⬜⬜ 28.8% |
+| **go** | 9h 12m | 🟦🟦🟦🟦🟦⬜⬜⬜⬜⬜ 58.1% |
+| **lua** | 4h 32m | 🟦🟦⬜⬜⬜⬜⬜⬜⬜⬜ 28.7% |
 | **md** | 36m | ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ 3.8% |
 | **html** | 31m | ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ 3.3% |
 | **Other** | 58m | ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ 6.2% |
@@ -147,9 +147,9 @@ I am a Software Engineer focused on **Systems Programming** and **AI Infrastruct
 #### 🔥 Projects
 | Project | Time | Percentage |
 | :--- | :--- | :--- |
-| **taka-time.nvim** | 10h 37m | 🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜ 67.3% |
-| **plugins** | 3h 45m | 🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜ 23.8% |
-| **cd** | 46m | ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ 4.9% |
+| **taka-time.nvim** | 10h 40m | 🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜ 67.4% |
+| **plugins** | 3h 45m | 🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜ 23.7% |
+| **cd** | 46m | ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ 4.8% |
 | **CC-Lab1** | 31m | ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ 3.3% |
 | **Other** | 7m | ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ 0.7% |
 
