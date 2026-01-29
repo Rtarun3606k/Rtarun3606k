@@ -82,9 +82,9 @@ I am a Software Engineer focused on **Systems Programming** and **AI Infrastruct
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#3](https://github.com/Rtarun3606k/TakaTime/issues/3#issuecomment-3809935937) in [Rtarun3606k/TakaTime](https://github.com/Rtarun3606k/TakaTime)
-2. 🚀 Published release [Version 2.0.5 add debugging log files and new tracking metrics os and git brnach ](https://github.com/Rtarun3606k/TakaTime/releases/tag/v2.0.5) in [Rtarun3606k/TakaTime](https://github.com/Rtarun3606k/TakaTime)
-3. 🎉 Merged PR [#4](https://github.com/Rtarun3606k/TakaTime/pull/4) in [Rtarun3606k/TakaTime](https://github.com/Rtarun3606k/TakaTime)
+1. 🗣 Commented on [#3](https://github.com/Rtarun3606k/TakaTime/issues/3#issuecomment-3818552778) in [Rtarun3606k/TakaTime](https://github.com/Rtarun3606k/TakaTime)
+2. 🗣 Commented on [#3](https://github.com/Rtarun3606k/TakaTime/issues/3#issuecomment-3809935937) in [Rtarun3606k/TakaTime](https://github.com/Rtarun3606k/TakaTime)
+3. 🚀 Published release [Version 2.0.5 add debugging log files and new tracking metrics os and git brnach ](https://github.com/Rtarun3606k/TakaTime/releases/tag/v2.0.5) in [Rtarun3606k/TakaTime](https://github.com/Rtarun3606k/TakaTime)
 <!--END_SECTION:activity-->
 
 ---
