@@ -122,37 +122,24 @@ I am a Software Engineer focused on **Systems Programming** and **AI Infrastruct
 
 <!--takatime-start-->
 
-> [!NOTE]
-> **TakaTime Dashboard**
-> _Jan 29_ to _Feb 05_
+# TakaTime Weekly Report
 
-> [!TIP]
-> **Total Coding Time (7d):** 77h 47m
+Check out my coding activity over the last week!
 
-#### 📈 Trends
-| Period        | Duration     | Period       | Duration     |
-| :---          | :---         | :---         | :---         |
-| Yesterday     | **30h 59m**  | Last 7 Days  | **77h 47m**  |
-| Last 30 Days  | **97h 19m**  | All Time     | **101h 2m**  |
+<div align="center">
 
-#### 💻 Languages
-| Language | Time | Percentage |
-| :--- | :--- | :--- |
-| **text** | 33h 19m | 🟦🟦🟦🟦⬜⬜⬜⬜⬜⬜ 42.8% |
-| **go** | 13h 2m | 🟦⬜⬜⬜⬜⬜⬜⬜⬜⬜ 16.8% |
-| **rs** | 9h 22m | 🟦⬜⬜⬜⬜⬜⬜⬜⬜⬜ 12.0% |
-| **html** | 7h 27m | ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ 9.6% |
-| **Other** | 14h 36m | 🟦⬜⬜⬜⬜⬜⬜⬜⬜⬜ 18.8% |
 
-#### 🔥 Projects
-| Project | Time | Percentage |
-| :--- | :--- | :--- |
-| **unknown** | 24h 31m | 🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜ 31.5% |
-| **dragoon** | 12h 52m | 🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜ 16.5% |
-| **taka-time.nvim** | 10h 5m | 🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜ 13.0% |
-| **hello_world** | 9h 22m | 🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜ 12.0% |
-| **Other** | 20h 55m | 🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜ 26.9% |
+<img src="./public/taka-time.png" width="100%" alt="Time Stats" /><br/><br/>
 
+
+<img src="./public/taka-languages.png" width="48%" alt="Languages" />&nbsp;&nbsp;<img src="./public/taka-projects.png" width="48%" alt="Projects" /><br/><br/>
+
+
+<img src="./public/taka-tech.png" width="100%" alt="Tech Stack" />
+
+</div>
+
+_Generated automatically by [TakaTime](https://github.com/Rtarun3606k/TakaTime)_
 
 <!--takatime-end-->
 <div align="center">
