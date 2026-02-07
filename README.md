@@ -122,7 +122,7 @@ I am a Software Engineer focused on **Systems Programming** and **AI Infrastruct
 
 <!--takatime-start-->
 
-<h3 align="center">TakaTime Weekly Report</h3>
+<h2 align="center">TakaTime Weekly Report</h2>
 
 <p align="center">
   <img src="./public/taka-time.png" width="100%" alt="Time Stats" /><br/>
