@@ -122,7 +122,7 @@ I am a Software Engineer focused on **Systems Programming** and **AI Infrastruct
 
 <!--takatime-start-->
 
-<h1 align="center">TakaTime Weekly Report</h1>
+<h3 align="center">TakaTime Weekly Report</h3>
 
 <p align="center">
   <img src="./public/taka-time.png" width="100%" alt="Time Stats" /><br/>
@@ -130,19 +130,6 @@ I am a Software Engineer focused on **Systems Programming** and **AI Infrastruct
   <img src="./public/taka-projects.png" width="400" alt="Projects" /><br/>
   <img src="./public/taka-tech.png" width="100%" alt="Tech Stack" />
 </p>
-
-<div align="center">
-
-
-<img src="./public/taka-time.png" width="100%" alt="Time Stats" /><br/><br/>
-
-
-<img src="./public/taka-languages.png" width="48%" alt="Languages" />&nbsp;&nbsp;<img src="./public/taka-projects.png" width="48%" alt="Projects" /><br/><br/>
-
-
-<img src="./public/taka-tech.png" width="100%" alt="Tech Stack" />
-
-</div>
 
 <p align="center"><em>Generated automatically by <a href="https://github.com/Rtarun3606k/TakaTime">TakaTime</a></em></p>
 
