@@ -122,9 +122,14 @@ I am a Software Engineer focused on **Systems Programming** and **AI Infrastruct
 
 <!--takatime-start-->
 
-# TakaTime Weekly Report
+<h1 align="center">TakaTime Weekly Report</h1>
 
-Check out my coding activity over the last week!
+<p align="center">
+  <img src="./public/taka-time.png" width="100%" alt="Time Stats" /><br/>
+  <img src="./public/taka-languages.png" width="400" alt="Languages" />
+  <img src="./public/taka-projects.png" width="400" alt="Projects" /><br/>
+  <img src="./public/taka-tech.png" width="100%" alt="Tech Stack" />
+</p>
 
 <div align="center">
 
@@ -139,7 +144,7 @@ Check out my coding activity over the last week!
 
 </div>
 
-_Generated automatically by [TakaTime](https://github.com/Rtarun3606k/TakaTime)_
+<p align="center"><em>Generated automatically by <a href="https://github.com/Rtarun3606k/TakaTime">TakaTime</a></em></p>
 
 <!--takatime-end-->
 <div align="center">
