@@ -76,6 +76,11 @@ I am a Software Engineer focused on **Systems Programming** and **AI Infrastruct
 <!-- <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rtarun3606k&bg_color=1a1b27&color=70a5fd&line=38bdae&point=FFFFFF&area=true&hide_border=true" alt="Tarun's Activity Graph" />
 </p> -->
+
+
+<!--takatime-start-->
+
+<!--takatime-end-->
  
 
 <h3 align="left"> Recent Activity</h3>
@@ -118,22 +123,6 @@ I am a Software Engineer focused on **Systems Programming** and **AI Infrastruct
 </p>
 
 
-
-
-<!--takatime-start-->
-
-<h2 align="center">TakaTime Weekly Report</h2>
-
-<p align="center">
-  <img src="./public/taka-time.png" width="100%" alt="Time Stats" /><br/>
-  <img src="./public/taka-languages.png" width="400" alt="Languages" />
-  <img src="./public/taka-projects.png" width="400" alt="Projects" /><br/>
-  <img src="./public/taka-tech.png" width="100%" alt="Tech Stack" />
-</p>
-
-<p align="center"><em>Generated automatically by <a href="https://github.com/Rtarun3606k/TakaTime">TakaTime</a></em></p>
-
-<!--takatime-end-->
 <div align="center">
 <img src="https://render.gitanimals.org/farms/Rtarun3606k?loading" alt="git animals" />
 </div>
