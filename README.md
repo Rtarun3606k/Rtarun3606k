@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Tarun Nayaka R 👋</h1>
+<h1 align="center">Hi there, I'm Tarun Nayaka R </h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3800&pause=1000&color=61DAFB&center=true&vCenter=true&width=435&lines=Software+Engineer;Full-Stack+Developer;Cloud+%26+AI+Enthusiast;Problem+Solver" alt="Typing SVG" />
@@ -10,18 +10,18 @@
 
 ---
 
-### 👨‍💻 About Me
+###  About Me
 
 I am a Software Engineer focused on **Systems Programming** and **AI Infrastructure**. Unlike typical web developers, I dive deep into low-level logic using **C++ & Rust** while building scalable cloud architectures with **Go & Kafka**. My current research lies at the intersection of **Computer Vision** and distributed systems.
 
-- 🔭 **Current Focus:** Real-time **Computer Vision** (OpenCV), **Systems Engineering** (Rust/Go), and **Vision Transformers**.
-- 🏗️ **Building:** High-throughput data pipelines using **Apache Kafka**, **Vector DBs**, and **Dockerized Microservices**.
-- 🧠 **Interests:** Distributed Systems, Linux Kernel (Debian/Arch), and Cloud-Native AI (Azure/GCP).
-- ⚡ **Fun Fact:** I live in the terminal (Neovim + Lua) and I use Debian (btw).
+-  **Current Focus:** Real-time **Computer Vision** (OpenCV), **Systems Engineering** (Rust/Go), and **Vision Transformers**.
+-  **Building:** High-throughput data pipelines using **Apache Kafka**, **Vector DBs**, and **Dockerized Microservices**.
+-  **Interests:** Distributed Systems, Linux Kernel (Debian/Arch), and Cloud-Native AI (Azure/GCP).
+-  **Fun Fact:** I live in the terminal (Neovim + Lua) and I use Debian (btw).
 
 ---
 
-### 💻 Tech Stack
+###  Tech Stack
 
 
 <table align="center">
@@ -57,7 +57,7 @@ I am a Software Engineer focused on **Systems Programming** and **AI Infrastruct
 
 
 
-### 📊 GitHub Analytics & Activity
+###  GitHub Analytics & Activity
 <p align="center">
   <img src="https://git-status-for-gist.vercel.app/api?username=Rtarun3606k&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" alt="Tarun's Stats" height="200" />
   <img src="https://git-status-for-gist.vercel.app/api/top-langs/?username=Rtarun3606k&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&hide=html,css" alt="Top Languages" height="200" />
@@ -78,7 +78,7 @@ I am a Software Engineer focused on **Systems Programming** and **AI Infrastruct
 </p> -->
  
 
-<h3 align="left">⚡ Recent Activity</h3>
+<h3 align="left"> Recent Activity</h3>
 
 <!--START_SECTION:activity-->
 
@@ -90,7 +90,7 @@ I am a Software Engineer focused on **Systems Programming** and **AI Infrastruct
 ---
 <br />
 
-<h3 align="center">🤝 Connect with Me</h3>
+<h3 align="center"> Connect with Me</h3>
 
 <p align="center">
   <a href="https://tarunnayaka.me" target="blank">
@@ -110,14 +110,14 @@ I am a Software Engineer focused on **Systems Programming** and **AI Infrastruct
 
 <br />
 
-<h3 align="center">🏆 Achievements & Badges</h3>
+<h3 align="center"> Achievements & Badges</h3>
 <p align="center">
   <a href="https://holopin.io/@rtarun3606k">
     <img src="https://holopin.me/rtarun3606k" alt="Tarun's Holopin Badges" width="100%" />
   </a>
 </p>
 
-<h3 align="left">⏳ Weekly Coding Time</h3>
+<h3 align="left"> Weekly Coding Time</h3>
 
 
 <!--takatime-start-->
