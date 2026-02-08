@@ -98,9 +98,9 @@ I am a Software Engineer focused on **Systems Programming** and **AI Infrastruct
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#7](https://github.com/Rtarun3606k/TakaTime/pull/7) in [Rtarun3606k/TakaTime](https://github.com/Rtarun3606k/TakaTime)
-2. 💪 Opened PR [#7](https://github.com/Rtarun3606k/TakaTime/pull/7) in [Rtarun3606k/TakaTime](https://github.com/Rtarun3606k/TakaTime)
-3. 🚀 Published release [Version 2.1.0 add offline tracking , sync when online , add image support replacing text based representation in readme file add theme support and custome them setup ](https://github.com/Rtarun3606k/TakaTime/releases/tag/v2.1.0) in [Rtarun3606k/TakaTime](https://github.com/Rtarun3606k/TakaTime)
+1. 🗣 Commented on [#8](https://github.com/Rtarun3606k/TakaTime/issues/8#issuecomment-3867487487) in [Rtarun3606k/TakaTime](https://github.com/Rtarun3606k/TakaTime)
+2. 🎉 Merged PR [#7](https://github.com/Rtarun3606k/TakaTime/pull/7) in [Rtarun3606k/TakaTime](https://github.com/Rtarun3606k/TakaTime)
+3. 💪 Opened PR [#7](https://github.com/Rtarun3606k/TakaTime/pull/7) in [Rtarun3606k/TakaTime](https://github.com/Rtarun3606k/TakaTime)
 <!--END_SECTION:activity-->
 
 ---
