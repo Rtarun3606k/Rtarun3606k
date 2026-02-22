@@ -98,9 +98,9 @@ I am a Software Engineer focused on **Systems Programming** and **AI Infrastruct
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#8](https://github.com/Rtarun3606k/TakaTime/issues/8#issuecomment-3867487487) in [Rtarun3606k/TakaTime](https://github.com/Rtarun3606k/TakaTime)
-2. 🎉 Merged PR [#7](https://github.com/Rtarun3606k/TakaTime/pull/7) in [Rtarun3606k/TakaTime](https://github.com/Rtarun3606k/TakaTime)
-3. 💪 Opened PR [#7](https://github.com/Rtarun3606k/TakaTime/pull/7) in [Rtarun3606k/TakaTime](https://github.com/Rtarun3606k/TakaTime)
+1. 🗣 Commented on [#9](https://github.com/Rtarun3606k/TakaTime/issues/9#issuecomment-3940627322) in [Rtarun3606k/TakaTime](https://github.com/Rtarun3606k/TakaTime)
+2. ℹ️ Labeled issue [#9](https://github.com/Rtarun3606k/TakaTime/issues/9) in [Rtarun3606k/TakaTime](https://github.com/Rtarun3606k/TakaTime)
+3. 🗣 Commented on [#10](https://github.com/Rtarun3606k/TakaTime/issues/10#issuecomment-3940625606) in [Rtarun3606k/TakaTime](https://github.com/Rtarun3606k/TakaTime)
 <!--END_SECTION:activity-->
 
 ---
