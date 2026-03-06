@@ -100,9 +100,9 @@ I am a Software Engineer focused on **Systems Programming** and **AI Infrastruct
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#10](https://github.com/Rtarun3606k/TakaTime/issues/10#issuecomment-3973798359) in [Rtarun3606k/TakaTime](https://github.com/Rtarun3606k/TakaTime)
-2. ℹ️ Labeled issue [#11](https://github.com/Rtarun3606k/TakaTime/issues/11) in [Rtarun3606k/TakaTime](https://github.com/Rtarun3606k/TakaTime)
-3. ℹ️ Labeled issue [#11](https://github.com/Rtarun3606k/TakaTime/issues/11) in [Rtarun3606k/TakaTime](https://github.com/Rtarun3606k/TakaTime)
+1. ℹ️ Labeled issue [#12](https://github.com/Rtarun3606k/TakaTime/issues/12) in [Rtarun3606k/TakaTime](https://github.com/Rtarun3606k/TakaTime)
+2. 🗣 Commented on [#12](https://github.com/Rtarun3606k/TakaTime/issues/12#issuecomment-4010890733) in [Rtarun3606k/TakaTime](https://github.com/Rtarun3606k/TakaTime)
+3. 🚀 Published release [Version 2.1.2 add 30-day stats, new themes, fixes, and performance improvements ](https://github.com/Rtarun3606k/TakaTime/releases/tag/v2.1.2) in [Rtarun3606k/TakaTime](https://github.com/Rtarun3606k/TakaTime)
 <!--END_SECTION:activity-->
 
 ---
