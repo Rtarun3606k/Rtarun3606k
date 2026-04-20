@@ -100,9 +100,9 @@ I am a Software Engineer focused on **Systems Programming** and **AI Infrastruct
 
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#1](https://github.com/sunil-kulkarni/blog_application/pull/1) in [sunil-kulkarni/blog_application](https://github.com/sunil-kulkarni/blog_application)
-2. 🗣 Commented on [#24](https://github.com/Rtarun3606k/TakaTime/issues/24#issuecomment-4258607212) in [Rtarun3606k/TakaTime](https://github.com/Rtarun3606k/TakaTime)
-3. 🚀 Published release [v2.2.3: The UI Polish Update](https://github.com/Rtarun3606k/TakaTime/releases/tag/v2.2.3) in [Rtarun3606k/TakaTime](https://github.com/Rtarun3606k/TakaTime)
+1. 🚀 Published release [Version 2.2.4 local dashboard ui fixes, fags to all binaries  and performance improvements ](https://github.com/Rtarun3606k/TakaTime/releases/tag/v2.2.4) in [Rtarun3606k/TakaTime](https://github.com/Rtarun3606k/TakaTime)
+2. 💪 Opened PR [#1](https://github.com/sunil-kulkarni/blog_application/pull/1) in [sunil-kulkarni/blog_application](https://github.com/sunil-kulkarni/blog_application)
+3. 🗣 Commented on [#24](https://github.com/Rtarun3606k/TakaTime/issues/24#issuecomment-4258607212) in [Rtarun3606k/TakaTime](https://github.com/Rtarun3606k/TakaTime)
 <!--END_SECTION:activity-->
 
 ---
