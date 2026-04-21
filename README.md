@@ -100,9 +100,9 @@ I am a Software Engineer focused on **Systems Programming** and **AI Infrastruct
 
 <!--START_SECTION:activity-->
 
-1. 🚀 Published release [Release v2.2.4: The Version Control Update](https://github.com/Rtarun3606k/TakaTime/releases/tag/v2.2.4) in [Rtarun3606k/TakaTime](https://github.com/Rtarun3606k/TakaTime)
-2. 💪 Opened PR [#1](https://github.com/sunil-kulkarni/blog_application/pull/1) in [sunil-kulkarni/blog_application](https://github.com/sunil-kulkarni/blog_application)
-3. 🗣 Commented on [#24](https://github.com/Rtarun3606k/TakaTime/issues/24#issuecomment-4258607212) in [Rtarun3606k/TakaTime](https://github.com/Rtarun3606k/TakaTime)
+1. 🗣 Commented on [#32](https://github.com/Rtarun3606k/TakaTime/issues/32#issuecomment-4285798931) in [Rtarun3606k/TakaTime](https://github.com/Rtarun3606k/TakaTime)
+2. 🗣 Commented on [#31](https://github.com/Rtarun3606k/TakaTime/issues/31#issuecomment-4285796377) in [Rtarun3606k/TakaTime](https://github.com/Rtarun3606k/TakaTime)
+3. 🚀 Published release [Release v2.2.4: The Version Control Update](https://github.com/Rtarun3606k/TakaTime/releases/tag/v2.2.4) in [Rtarun3606k/TakaTime](https://github.com/Rtarun3606k/TakaTime)
 <!--END_SECTION:activity-->
 
 ---
