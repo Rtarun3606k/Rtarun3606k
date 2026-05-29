@@ -102,9 +102,9 @@ I am a Software Engineer focused on **Systems Programming** and **AI Infrastruct
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#51](https://github.com/Rtarun3606k/TakaTime/issues/51#issuecomment-4576126581) in [Rtarun3606k/TakaTime](https://github.com/Rtarun3606k/TakaTime)
-2. 🔒 Closed issue [#48](https://github.com/Rtarun3606k/TakaTime/issues/48) in [Rtarun3606k/TakaTime](https://github.com/Rtarun3606k/TakaTime)
-3. ℹ️ Assigned issue [#51](https://github.com/Rtarun3606k/TakaTime/issues/51) in [Rtarun3606k/TakaTime](https://github.com/Rtarun3606k/TakaTime)
+1. ℹ️ Assigned issue [#47](https://github.com/Rtarun3606k/TakaTime/issues/47) in [Rtarun3606k/TakaTime](https://github.com/Rtarun3606k/TakaTime)
+2. 🗣 Commented on [#51](https://github.com/ktk-007/os-thread-simulator/issues/51#issuecomment-4577157025) in [ktk-007/os-thread-simulator](https://github.com/ktk-007/os-thread-simulator)
+3. 🗣 Commented on [#52](https://github.com/Rtarun3606k/TakaTime/issues/52#issuecomment-4577035540) in [Rtarun3606k/TakaTime](https://github.com/Rtarun3606k/TakaTime)
 <!--END_SECTION:activity-->
 
 ---
