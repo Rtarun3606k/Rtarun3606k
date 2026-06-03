@@ -102,9 +102,9 @@ I am a Software Engineer focused on **Systems Programming** and **AI Infrastruct
 
 <!--START_SECTION:activity-->
 
-1. ℹ️ Labeled PR [#54](https://github.com/Rtarun3606k/TakaTime/pull/54) in [Rtarun3606k/TakaTime](https://github.com/Rtarun3606k/TakaTime)
-2. ℹ️ Labeled PR [#54](https://github.com/Rtarun3606k/TakaTime/pull/54) in [Rtarun3606k/TakaTime](https://github.com/Rtarun3606k/TakaTime)
-3. ℹ️ Labeled PR [#54](https://github.com/Rtarun3606k/TakaTime/pull/54) in [Rtarun3606k/TakaTime](https://github.com/Rtarun3606k/TakaTime)
+1. ℹ️ Labeled PR [#49](https://github.com/Rtarun3606k/TakaTime/pull/49) in [Rtarun3606k/TakaTime](https://github.com/Rtarun3606k/TakaTime)
+2. ℹ️ Labeled PR [#49](https://github.com/Rtarun3606k/TakaTime/pull/49) in [Rtarun3606k/TakaTime](https://github.com/Rtarun3606k/TakaTime)
+3. ℹ️ Labeled PR [#49](https://github.com/Rtarun3606k/TakaTime/pull/49) in [Rtarun3606k/TakaTime](https://github.com/Rtarun3606k/TakaTime)
 <!--END_SECTION:activity-->
 
 ---
