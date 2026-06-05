@@ -61,9 +61,9 @@ I am a Software Engineer focused on **Systems Programming** and **AI Infrastruct
 <p align="center">
 
 
-  <img src="https://ghstats.dev/api/card?username=Rtarun3606k&theme=transparent"  width="100%" />
+  <!--  <img src="https://ghstats.dev/api/card?username=Rtarun3606k&theme=transparent"  width="100%" />
      
-  <!-- <a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=97576326" target="_blank" style="display: block" align="center">
+ <a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=97576326" target="_blank" style="display: block" align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=97576326&image_size=auto&color_scheme=dark" width="771" height="auto">
     <img alt="Dashboard stats of @Rtarun3606k" src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=97576326&image_size=auto&color_scheme=light" width="771" height="auto">
