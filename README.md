@@ -103,9 +103,9 @@ I am a Software Engineer focused on **Systems Programming** and **AI Infrastruct
 
 <!--START_SECTION:activity-->
 
-1. 🔒 Closed issue [#47](https://github.com/Rtarun3606k/TakaTime/issues/47) in [Rtarun3606k/TakaTime](https://github.com/Rtarun3606k/TakaTime)
-2. 🔒 Closed issue [#62](https://github.com/Rtarun3606k/TakaTime/issues/62) in [Rtarun3606k/TakaTime](https://github.com/Rtarun3606k/TakaTime)
-3. 🗣 Commented on [#62](https://github.com/Rtarun3606k/TakaTime/issues/62#issuecomment-4632796680) in [Rtarun3606k/TakaTime](https://github.com/Rtarun3606k/TakaTime)
+1. 🎉 Merged PR [#63](https://github.com/Rtarun3606k/TakaTime/pull/63) in [Rtarun3606k/TakaTime](https://github.com/Rtarun3606k/TakaTime)
+2. 💪 Opened PR [#63](https://github.com/Rtarun3606k/TakaTime/pull/63) in [Rtarun3606k/TakaTime](https://github.com/Rtarun3606k/TakaTime)
+3. 🔒 Closed issue [#47](https://github.com/Rtarun3606k/TakaTime/issues/47) in [Rtarun3606k/TakaTime](https://github.com/Rtarun3606k/TakaTime)
 <!--END_SECTION:activity-->
 
 ---
