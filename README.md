@@ -102,9 +102,9 @@ I am a Software Engineer focused on **Systems Programming** and **AI Infrastruct
 
 <!--START_SECTION:activity-->
 
-1. ℹ️ Labeled issue [#10973](https://github.com/EclipseFdn/open-vsx.org/issues/10973) in [EclipseFdn/open-vsx.org](https://github.com/EclipseFdn/open-vsx.org)
-2. ℹ️ Labeled issue [#10973](https://github.com/EclipseFdn/open-vsx.org/issues/10973) in [EclipseFdn/open-vsx.org](https://github.com/EclipseFdn/open-vsx.org)
-3. ❗ Opened issue [#10973](https://github.com/EclipseFdn/open-vsx.org/issues/10973) in [EclipseFdn/open-vsx.org](https://github.com/EclipseFdn/open-vsx.org)
+1. 🗣 Commented on [#77](https://github.com/Rtarun3606k/TakaTime/issues/77#issuecomment-4658992868) in [Rtarun3606k/TakaTime](https://github.com/Rtarun3606k/TakaTime)
+2. ℹ️ Assigned issue [#77](https://github.com/Rtarun3606k/TakaTime/issues/77) in [Rtarun3606k/TakaTime](https://github.com/Rtarun3606k/TakaTime)
+3. ℹ️ Labeled issue [#10973](https://github.com/EclipseFdn/open-vsx.org/issues/10973) in [EclipseFdn/open-vsx.org](https://github.com/EclipseFdn/open-vsx.org)
 <!--END_SECTION:activity-->
 
 ---
