@@ -102,9 +102,9 @@ I am a Software Engineer focused on **Systems Programming** and **AI Infrastruct
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#10973](https://github.com/EclipseFdn/open-vsx.org/issues/10973#issuecomment-4667471338) in [EclipseFdn/open-vsx.org](https://github.com/EclipseFdn/open-vsx.org)
-2. 🎉 Merged PR [#79](https://github.com/Rtarun3606k/TakaTime/pull/79) in [Rtarun3606k/TakaTime](https://github.com/Rtarun3606k/TakaTime)
-3. 💪 Opened PR [#79](https://github.com/Rtarun3606k/TakaTime/pull/79) in [Rtarun3606k/TakaTime](https://github.com/Rtarun3606k/TakaTime)
+1. 🗣 Commented on [#78](https://github.com/Rtarun3606k/TakaTime/pull/78#issuecomment-4667814555) in [Rtarun3606k/TakaTime](https://github.com/Rtarun3606k/TakaTime)
+2. ℹ️ Labeled PR [#78](https://github.com/Rtarun3606k/TakaTime/pull/78) in [Rtarun3606k/TakaTime](https://github.com/Rtarun3606k/TakaTime)
+3. ℹ️ Labeled PR [#78](https://github.com/Rtarun3606k/TakaTime/pull/78) in [Rtarun3606k/TakaTime](https://github.com/Rtarun3606k/TakaTime)
 <!--END_SECTION:activity-->
 
 ---
