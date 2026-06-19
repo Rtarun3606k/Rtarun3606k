@@ -102,7 +102,7 @@ I am a Software Engineer focused on **Systems Programming** and **AI Infrastruct
 
 <!--START_SECTION:activity-->
 
-1. ℹ️ Labeled PR [#80](https://github.com/Rtarun3606k/TakaTime/pull/80) in [Rtarun3606k/TakaTime](https://github.com/Rtarun3606k/TakaTime)
+1. 🗣 Commented on [#86](https://github.com/Rtarun3606k/TakaTime/pull/86#issuecomment-4750683853) in [Rtarun3606k/TakaTime](https://github.com/Rtarun3606k/TakaTime)
 2. ℹ️ Labeled PR [#80](https://github.com/Rtarun3606k/TakaTime/pull/80) in [Rtarun3606k/TakaTime](https://github.com/Rtarun3606k/TakaTime)
 3. ℹ️ Labeled PR [#80](https://github.com/Rtarun3606k/TakaTime/pull/80) in [Rtarun3606k/TakaTime](https://github.com/Rtarun3606k/TakaTime)
 <!--END_SECTION:activity-->
