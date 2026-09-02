@@ -103,9 +103,9 @@ I am a Software Engineer focused on **Systems Programming** and **AI Infrastruct
 
 <!--START_SECTION:activity-->
 
-1. 🚀 Published release [TakaTime v2.3.0 — Language Detection, Analytics & Exporter](https://github.com/Rtarun3606k/TakaTime/releases/tag/v2.3.0) in [Rtarun3606k/TakaTime](https://github.com/Rtarun3606k/TakaTime)
-2. 🎉 Merged PR [#118](https://github.com/Rtarun3606k/TakaTime/pull/118) in [Rtarun3606k/TakaTime](https://github.com/Rtarun3606k/TakaTime)
-3. ℹ️ Assigned issue [#119](https://github.com/Rtarun3606k/TakaTime/issues/119) in [Rtarun3606k/TakaTime](https://github.com/Rtarun3606k/TakaTime)
+1. ℹ️ Assigned issue [#127](https://github.com/Rtarun3606k/TakaTime/issues/127) in [Rtarun3606k/TakaTime](https://github.com/Rtarun3606k/TakaTime)
+2. 🗣 Commented on [#127](https://github.com/Rtarun3606k/TakaTime/issues/127#issuecomment-5505418575) in [Rtarun3606k/TakaTime](https://github.com/Rtarun3606k/TakaTime)
+3. 🚀 Published release [TakaTime v2.3.0 — Language Detection, Analytics & Exporter](https://github.com/Rtarun3606k/TakaTime/releases/tag/v2.3.0) in [Rtarun3606k/TakaTime](https://github.com/Rtarun3606k/TakaTime)
 <!--END_SECTION:activity-->
 
 ---
