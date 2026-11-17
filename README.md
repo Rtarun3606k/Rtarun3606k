@@ -103,8 +103,8 @@ I am a Software Engineer focused on **Systems Programming** and **AI Infrastruct
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#127](https://github.com/Rtarun3606k/TakaTime/issues/127#issuecomment-5558302317) in [Rtarun3606k/TakaTime](https://github.com/Rtarun3606k/TakaTime)
-2. 🚀 Published release [Version 2.3.1 language detection fixes, and performance improvements ](https://github.com/Rtarun3606k/TakaTime/releases/tag/v2.3.1) in [Rtarun3606k/TakaTime](https://github.com/Rtarun3606k/TakaTime)
+1. ℹ️ Unassigned issue [#119](https://github.com/Rtarun3606k/TakaTime/issues/119) in [Rtarun3606k/TakaTime](https://github.com/Rtarun3606k/TakaTime)
+2. ℹ️ Assigned issue [#119](https://github.com/Rtarun3606k/TakaTime/issues/119) in [Rtarun3606k/TakaTime](https://github.com/Rtarun3606k/TakaTime)
 3. 🎉 Merged PR [#129](https://github.com/Rtarun3606k/TakaTime/pull/129) in [Rtarun3606k/TakaTime](https://github.com/Rtarun3606k/TakaTime)
 <!--END_SECTION:activity-->
 
